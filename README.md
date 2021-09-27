@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @JimsPalo (Jimmy Palomino)
+- 👋 **Hi, I’m Jimmy Palomino** (@JimsPalo )
+
+
 - 👀 I’m interested in Electric machines design and engenering software code:
-  * ANSYS Electronics
-  * MatLab 
-  * Python 
+  - **ANSYS Electronics**
+  - **MatLab**
+  - **Python**
 - 🌱 I’m currently learning about machines scripting (ANSYS Electronics and Pyleecan).
 - 💞️ I'm looking to collaborate on machine design projects and scientific publications.
 - 📫 How to reach me:
